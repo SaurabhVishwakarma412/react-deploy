@@ -1,3 +1,5 @@
+Part 1: Learning how to deply projects
+
 PART 2: Create React App using Vite
 2️⃣ Create Vite + React Project
 npm create vite@latest my-react-app
